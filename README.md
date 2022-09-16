@@ -1,5 +1,4 @@
 # navbar
-# parallax-website
 
 ## Table of contents
 
